@@ -1,6 +1,6 @@
 # Stock Analysis Dashboard (AAPL, TSLA, MSFT - 2023)
 
-Stock analysis of AAPL, TSLA, and MSFT using Python and Tableau.
+Stock analysis of AAPL, TSLA, and MSFT using Python and Tableau to evaluate performance, risk, and return.
 
 ## What I Did
 - Used stock data from Yahoo Finance via the yfinance library
